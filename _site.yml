@@ -4,7 +4,15 @@ navbar:
   title: "Tianle Lin's Space"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
-      
+  right: 
+    - icon: fa-github
+      href: https://github.com/Tianle7777/Tianle_Lin
+output:
+  html_document:
+    theme: sandstone
+    
+    
