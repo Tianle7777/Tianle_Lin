@@ -1,1 +1,10 @@
-
+name: "Tianle Lin's first-website"
+output_dir: "."
+navbar:
+  title: "Tianle Lin's Space"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "GIS Work"
+      href: geog176A.html
+      
