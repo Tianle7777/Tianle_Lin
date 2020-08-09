@@ -10,7 +10,7 @@ navbar:
       href: geog176A.html
   right: 
     - icon: fa-github
-      href: https://github.com/Tianle7777/Tianle_Lin
+      href: https://tianle7777.github.io/Tianle_Lin
 output:
   html_document:
     theme: sandstone
