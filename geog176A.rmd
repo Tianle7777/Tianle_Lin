@@ -8,7 +8,6 @@ In the summer of 2020 I took a class GIS course based in R. This is a tough suui
 
 - In this assignment we built a static users site with Github Pages 
 - Includes a github repo for access to all the code.
-- In this site you will find anything interesting about me.
 - If you have any question do not hesitate to contact me!
 - Look at how high quality my work is!
 
