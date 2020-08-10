@@ -10,3 +10,4 @@ In the summer of 2020 I took a class GIS course based in R. I worte some code, a
 - Includes a github repo for access to all the code.
 - Look at how high quality my work is!
 
+
