@@ -7,10 +7,14 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "GIS Work"
+      icon: fa-globe-americas
       href: geog176A.html
+    - text: "CV"
+      icon: fa-male
+      href: CV.html
   right: 
     - icon: fa-github
-      href: https://tianle7777.github.io/Tianle_Lin
+      href: https://github.com/Tianle7777/Tianle_Lin
 output:
   html_document:
     theme: sandstone
