@@ -2,12 +2,13 @@
 title: "Projects"
 ---
 
-In the summer of 2020 I took a class GIS course based in R. I worte some code, and did some cool data science. Here is a collection of links! 
+In the summer of 2020 I took a class GIS course based in R. This is a tough suuimer to all of us, but I am still glad to meet all of you through Zoom. I am ready and looking forward to write cool codes with you guys.
 
 ## [Building a project website]()
 
 - In this assignment we built a static users site with Github Pages 
 - Includes a github repo for access to all the code.
+- In this site you will find anything interesting about me.
+- If you have any question do not hesitate to contact me!
 - Look at how high quality my work is!
-
 
